@@ -942,7 +942,21 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     promoPrice = "59.95"
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
                                                                     treatmentSelected = "Non-surgical Face Lift";
-                                                                    break;                   
+                                                                    break;      
+                                                                    
+                                                                    case "Earth Aventura LED Light Facial":
+                                                                    upDatedSpaName = "Earth Tech Spa";
+                                                                    upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Between Chuck E. Cheese and Olympia Gym)";
+                                                                    upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
+                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-nonsurgicalfacelift-promo";
+                                                                    upDatedSpaPhone = "(786) 539-3034";
+                                                                    upDatedDurationTotal = "75 Minutes";
+                                                                    upDatedDurationOne = "- 50 Minutes LED Skin Light Facial";
+                                                                    upDatedDurationTwo = "- 25 Minutes Consultation";
+                                                                    promoPrice = "59.95"
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
+                                                                    treatmentSelected = "LED Skin Light Facial";
+                                                                    break;            
 
                                                             case "Lola Soap Mesa":
                                                                 upDatedSpaName = "Lola Soap Spa";
@@ -1005,7 +1019,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedSpaAddress = "617 east las Olas Blvd, Fort Lauderdale, FL 333011"+"<br>"+"(Next to 'Vans')";
                                    upDatedSpaLINK = "https://forms.gle/ojW56idhkRSLmsCa9";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tresor-rare-las-olas-spa-led-promo-page" ;
-                                   upDatedSpaPhone = "(786) 206-8520";
+                                   upDatedSpaPhone = "(754) 778-6615";
                                    upDatedDurationTotal = "60 Minutes";
                                    upDatedDurationOne = "- 20 Minutes Deep Skin Cleaning";
                                    upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
