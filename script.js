@@ -941,7 +941,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                     promoPrice = "59.95"
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                                    treatmentSelected = "Non-surgical Face Lift";
+                                                                    treatmentSelected = "Non-surgical Face Lift.";
                                                                     break;      
                                                                     
                                                                     case "Earth Aventura LED Light Facial":
